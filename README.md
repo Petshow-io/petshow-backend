@@ -1,5 +1,7 @@
 # petshow-backend Project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ded75576683a45acb34358786e095680)](https://app.codacy.com/gh/Petshow-io/petshow-backend?utm_source=github.com&utm_medium=referral&utm_content=Petshow-io/petshow-backend&utm_campaign=Badge_Grade_Settings)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
